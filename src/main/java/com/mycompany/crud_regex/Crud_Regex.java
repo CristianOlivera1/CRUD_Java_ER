@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.mycompany.crud_regex;
 
 /**
  *
- * @author olive
+ * @author CristianOlivera1
  */
 public class Crud_Regex {
 
