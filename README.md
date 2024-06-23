@@ -18,19 +18,8 @@ Es una aplicación CRUD (Crear, Registrar, Actualizar, Eliminar) desarrollada en
 - **Lenguaje**: Java
 - **Interfaz Gráfica**: Swing (`JTable`)
 - **Validación de Datos**: Expresiones Regulares
-- **Entorno de Programacion**: Apache NetBenas IDE 18
+- **Entorno de Programación**: Apache NetBenas IDE 18
 
 ## 🖼️ Capturas de Pantalla
 
 ![CRUD en acción](src/main/resources/img/fond_crud.png)
-
-## 🚀 Instalación y Uso
-
-1. **Clonar el repositorio**:
-    ```bash
-    git clone https://github.com/CristianOlivera1/CRUD_Java_ER.git
-    ```
-
-2. **Compilar y ejecutar**:
-    - Abre el proyecto en tu IDE favorito.
-    - Compila y ejecuta la aplicación.
